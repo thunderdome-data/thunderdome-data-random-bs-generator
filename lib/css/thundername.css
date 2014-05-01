@@ -1,0 +1,41 @@
+body { 
+	font-size: 14pt; 
+	text-align: center;
+}
+
+#babyNameContainer {
+	
+}
+
+#new-name { 
+	color: #000; 
+	font-family: 'Cinzel', serif;
+	font-size: 22pt; 
+	padding: 0px; 
+}
+	
+button { 
+	font: 12pt Arial; 
+	border-radius: 10px; 
+	background-color: #52A9DC; 
+	color: #FFF; 
+	padding: 13px; 
+	border: 2px solid #FFF; 
+	margin-top: 30px;
+	margin-bottom: 20px;
+	text-shadow: 1px 1px #3F7FA5;
+}
+
+button:hover { 
+	background-color: #333; 
+	color: #FFF; 
+	cursor: pointer; 
+	text-shadow: none;
+}
+#sourceCreds {
+    font: italic 11px Arial; 
+    color: #999; 
+    margin: 10px 0 10px 0px; 
+/*    border-top: 1px solid #e2e2e2; */
+    padding: 5px 0 0 0;
+}
