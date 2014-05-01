@@ -24,6 +24,7 @@ The project contains the following folders and important files:
 * ``index.html`` -- An example app, in this case to name a royal baby
 * ``lib/js`` -- Javascript
 * ``lib/css`` -- Strangely enough, stylesheets
+* ``lib/img`` -- Images lovingly handcrafted by the inimitable Nelson Hsu
 
 License
 ----------
