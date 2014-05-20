@@ -4,7 +4,11 @@ thunderdome-data-random-bs-generator
 What is this crap?
 ------------------
 
-Ridiculously simple hack to randomly generate a name (or phrase) from sets of words. Hey, it's free. Get your money's worth.
+Ridiculously simple hack to randomly generate a name (or phrase) from sets of words. This began as a toy to troll colleagues in the newsroom and turned into a production tool we used on repeated occasions. There's some inline documentation in [lib/js/thundername.js](lib/js/thundername.js)
+
+A real, live demo: http://www.mercurynews.com/digital-first-media/ci_23721535/royal-baby-name-george-alexander-louis
+
+![random crap generator](screenshots/rando.png)
 
 Perpetrators
 ------------
